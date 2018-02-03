@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Adventures of an amateur Arch Linux user.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kzlskl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: iybayazit
+twitter_username: _kzlskl
 github_username:  kzlskl
 
 # Build settings
