@@ -6,4 +6,7 @@ categories: jekyll update
 ---
 Hello World!
 
-Short link for downloading scripts 'https://goo.gl/VQgcge' , for extracting scripts 'bsdtar -xf VQgcge'.
+Click [https://goo.gl/XfFpPK][1] for download zip file, and run 'bsdtar -xf XfFpPK'.
+.
+
+[1]: https://goo.gl/XfFpPK
