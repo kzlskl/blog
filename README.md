@@ -1,1 +1,1 @@
-# Herakles Project's 
+# Herakles Project's blog
